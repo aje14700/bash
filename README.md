@@ -1,0 +1,4 @@
+bash
+====
+
+My .bashrc file
